@@ -9,3 +9,7 @@
 - __week02__ Deep learning tricks
   - [ ] Deep learning as a language, dropout, batch/layer normalization, other tricks, deep learning frameworks
   - [ ] PyTorch basics
+
+- __week03__ Convolutional neural networks
+  - [ ] Computer vision tasks, Convolution and Pooling layers, ConvNet architectures, Data Augmentation
+  - [ ] Training ConvNet
